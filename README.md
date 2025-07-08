@@ -6,7 +6,7 @@
 
 
 https://github.com/anuraghazra/github-readme-stats <br /><br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-Kiwi7&show_icons=true&theme=synthwave) <br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-Kiwi7&show_icons=true&theme=merko) <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-Kiwi7&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <br /><br />
