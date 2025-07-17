@@ -8,13 +8,13 @@
 ✉ **Phone** | 010-
 
 
-
+<div align=center>
 https://github.com/anuraghazra/github-readme-stats <br /><br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-Kiwi7&show_icons=true&theme=merko) <br /><br/><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-Kiwi7&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <br /><br />
-
+</div>
 
 <div>
   
@@ -141,14 +141,7 @@ https://github.com/anuraghazra/github-readme-stats <br /><br />
     
 </div>
 
-<div>
 
-  <!--footer-->
-  <div align=center>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&height=200&section=footer"/>
-  </div>
-  
-</div>
 
 <!--
 **jongseo0703/jongseo0703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
