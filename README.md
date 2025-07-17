@@ -112,9 +112,9 @@
   <br>
 
   <div align=center>
-    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jongseo0703&utm_content=farm">
+    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=dev-Kiwi7&utm_content=farm">
       <img
-        src="https://render.gitanimals.org/farms/jongseo0703"
+        src="https://render.gitanimals.org/farms/dev-Kiwi7"
         width="600"
         height="300"
       />
