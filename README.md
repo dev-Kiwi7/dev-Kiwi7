@@ -106,9 +106,9 @@ https://github.com/anuraghazra/github-readme-stats <br /><br />
   <br>
 
   <div align=center>
-    <img src="https://github-readme-stats.vercel.app/api?username=jongseo0703&show_icons=true&theme=tokyonight" alt="Github stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=dev-Kiwi7&show_icons=true&theme=tokyonight" alt="Github stats"/>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jongseo0703&layout=compact&theme=tokyonight" alt="Top Langs"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-Kiwi7&layout=compact&theme=tokyonight" alt="Top Langs"/>
   </div>
 
   <br>
