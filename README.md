@@ -1,7 +1,11 @@
+  <!--header-->
+  <div align=center>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=Welcome+to+Sehyung's+Github!👋&fontSize=40&animation=twinkling"/>
+  </div>
 
 ## Profile
 📞 **Email** | seodalmi.u@gmail.com <br />
-✉ **Phone** | 010-7199-4975
+✉ **Phone** | 010-
 
 
 
