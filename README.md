@@ -1,19 +1,14 @@
-  <!--header-->
-  <div align=center>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=Welcome+to+Dalm's+Github!👋&fontSize=40&animation=twinkling"/>
-  </div>
-
-## Profile
-📞 **Email** | seodalmi.u@gmail.com <br />
-✉ **Phone** | 010-
-
-
-
-
-
-<br /><br />
-
+<!--header-->
+<div align=center>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=Welcome+to+Dalm's+Github!👋&fontSize=40&animation=twinkling"/>
 </div>
+
+<h2 align=center>Profile</h2>
+<br>
+<h4 align=center>📞 **Email** | seodalmi.u@gmail.com <br /></h4>
+<h4 align=center>✉ **Phone** | 010-</h4>
+
+<br/><br />
 
 <div>
 <!--Body-->
@@ -105,11 +100,11 @@
 
   <div align=center>
     <img src="https://github-readme-stats.vercel.app/api?username=dev-Kiwi7&show_icons=true&theme=tokyonight" alt="Github stats"/>
-    <br>
+    <br><br><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-Kiwi7&layout=compact&theme=tokyonight" alt="Top Langs"/>
   </div>
 
-  <br>
+  <br><br><br>
 
   <div align=center>
     <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=dev-Kiwi7&utm_content=farm">
@@ -123,10 +118,6 @@
     
 </div>
 
-
-
-<!--
-**jongseo0703/jongseo0703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
