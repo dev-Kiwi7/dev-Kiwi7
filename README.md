@@ -8,33 +8,17 @@
 ✉ **Phone** | 010-
 
 
-<div align=center>
+
 https://github.com/anuraghazra/github-readme-stats <br /><br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-Kiwi7&show_icons=true&theme=merko) <br /><br/><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-Kiwi7&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <br /><br />
-</div>
-
-<div>
-  
-  <!--header-->
-  <div align=center>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=Welcome+to+JongSeo's+Github!👋&fontSize=40&animation=twinkling"/>
-  </div>
-  
-  <!--Markdown-->
-
-  [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fjongseo0703?color=purple&label=hits&size=small)](https://myhits.vercel.app) [![Solved.ac pjs0703](http://mazassumnida.wtf/api/mini/generate_badge?boj=pjs0703)](https://solved.ac/pjs0703)
 
 </div>
 
 <div>
 <!--Body-->
-
-  <div align="center">
-    <img src="https://github.com/jongseo0703/jongseo0703/blob/output/github-snake-dark.svg" width="98%">
-  </div>
   
   <h2 align=center>👀 About me 👀</h2>
   <br>
