@@ -15,8 +15,8 @@
   
   <h2 align=center>👀 About me 👀</h2>
   <br>
-  <h4 align=center>👨‍💻 I aim to become a Backend Developer.</h4>
-  <h4 align=center>🔥 No one can stop my efforts.</h4>
+  <h4 align=center>👨‍💻 I am a Backend Developer.</h4>
+  <h4 align=center>🔥 Hard work pays off</h4>
   
   <br>
     
